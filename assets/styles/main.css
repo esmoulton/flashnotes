@@ -1,0 +1,16 @@
+.red-tag {
+    color: red;
+    text-decoration: none;
+}
+.red-tag:hover{
+    text-decoration: underline;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(43, 186, 52, 0.415);
+}
+body {
+    margin: 0px;
+}
